@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+p { 
+ font: 75px sans-serif;
+ font-family: "ＭＳ 明朝", "ＭＳ Ｐ明朝", serif; }
+
+.neonYellow {
+	color: #fbffd0;
+	text-shadow:
+	         0 0 30px  #f7ffa5, 
+	         0 0 35px #f7ffa5,
+		     0 0 45px #f7ffa5, 
+			 0 0 55px #f7ffa5,
+		     0 0 65px #f7ffa5;
+			 
+}
+
+body {
+  width: 760px;
+  height: 600px;
+  position: absolute;
+  background: #111;
+}
+
+
+.line {
+  fill: none;
+  stroke: red;
+  stroke-width: 1.5px;
+}
+
+
+/*# sourceMappingURL=default.css.map */
